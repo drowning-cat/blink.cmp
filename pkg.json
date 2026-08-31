@@ -9,7 +9,6 @@
   },
   "scripts": {
     "install": "scripts/install.lua",
-    "preupdate": "scripts/update.lua",
-    "update": "wtf"
+    "preupdate": "scripts/update.lua"
   }
 }
