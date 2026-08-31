@@ -13,6 +13,6 @@
   },
   "scripts": {
     "install": "scripts/install.lua",
-    "update": "scripts/update.lua",
+    "preupdate": "scripts/update.lua",
   }
 }
