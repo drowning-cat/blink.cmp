@@ -2,7 +2,10 @@
   "name": "blink.cmp",
   "description": "Performant, batteries-included completion plugin for Neovim",
   "engines": {
-    "nvim": ">=0.13.0",
+    "nvim": "^0.13.0"
+  },
+  "dependencies": {
+    "https://github.com/saghen/blink.lib" : "*"
   },
   "scripts": {
     "install": "scripts/install.lua",
