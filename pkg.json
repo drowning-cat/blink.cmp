@@ -5,7 +5,7 @@
     "nvim": "^0.13.0"
   },
   "dependencies": {
-    "https://github.com/saghen/blink.lib" : "HEAD"
+    "https://github.com/saghen/blink.lib" : "*"
   },
   "scripts": {
     "install": "scripts/install.lua",
