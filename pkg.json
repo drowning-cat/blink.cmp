@@ -10,6 +10,6 @@
   "scripts": {
     "install": "scripts/install.lua",
     "preupdate": "scripts/update.lua",
-    "random": "error me"
+    "update": "wtf"
   }
 }
