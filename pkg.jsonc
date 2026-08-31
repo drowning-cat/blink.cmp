@@ -8,7 +8,6 @@
     "https://github.com/saghen/blink.lib" : "*"
   },
   "scripts": {
-    // comment
     "install": "scripts/install.lua",
     "preupdate": "scripts/update.lua"
   }
