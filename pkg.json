@@ -1,11 +1,11 @@
 {
-  "name" : "blink.cmp",
-  "description" : "Performant, batteries-included completion plugin for Neovim ",
+  "name": "blink.cmp",
+  "description": "Performant, batteries-included completion plugin for Neovim",
   "engines": {
     "nvim": ">=0.13.0",
   },
   "scripts": {
     "install": "scripts/install.lua",
-    "preupdate": "scripts/update.lua2",
+    "preupdate": "scripts/update.lua"
   }
 }
